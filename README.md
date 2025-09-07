@@ -47,4 +47,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ````
 
-> Tip: put the text above in a file named **`LICENSE`** at the repo root. In `README.md`, you already state *“License: MIT (OSI-approved)”* and link to that file.
