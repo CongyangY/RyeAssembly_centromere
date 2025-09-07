@@ -10,7 +10,7 @@
 ## Data & code availability
 
 Raw and processed datasets are listed in the manuscript’s **Availability of Data and Materials**.
-A versioned snapshot of this repository will be archived on Zenodo (DOI to be added).
+A versioned snapshot of this repository will be archived on Zenodo (10.5281/zenodo.17072245).
 
 ## Citation
 
